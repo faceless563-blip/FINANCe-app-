@@ -512,7 +512,7 @@ export default function App() {
       <div className="space-y-6 pb-24">
         <header className="flex justify-between items-center px-4 pt-6">
           <div>
-            <h1 className="text-3xl font-bold gold-text-gradient">CHATTERJEE FINANCE</h1>
+            <h1 className="text-3xl font-bold gold-text-gradient">Tanha Chatterjee</h1>
             <p className="text-xs text-gray-500 font-medium tracking-widest uppercase">Student Edition</p>
           </div>
           <div className="flex gap-3">
